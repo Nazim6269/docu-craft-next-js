@@ -23,9 +23,7 @@ const Sidebar = ({ docs }) => {
       matchedDocs = getDocsByTag(docs, tag);
     } else if (pathName.includes('/authors')) {
       const author = pathName.split('/')[2];
-      console.log(author, 'author');
       matchedDocs = getDocsByAuthor(docs, author);
-      console.log(matchedDocs, 'matchedDocs');
     } else if (pathName.includes('/categories')) {
       const category = pathName.split('/')[2];
       matchedDocs = getDocsByCategory(docs, category);
