@@ -2,7 +2,7 @@
 title: 'Test'
 date: '29-07-2024'
 parent: 'introduction'
-author: 'Alex B'
+author: 'Alex-B'
 category: 'testing'
 tags: ['test', 'technology']
 ---

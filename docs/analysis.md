@@ -3,7 +3,7 @@ title: 'Analysis'
 date: '29-07-2024'
 parent: null
 order: 4
-author: 'Alex B'
+author: 'Alex-B'
 category: 'analytic'
 tags: ['intro', 'getting-started']
 ---

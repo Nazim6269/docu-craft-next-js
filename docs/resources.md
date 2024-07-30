@@ -3,7 +3,7 @@ title: 'Resources'
 date: '29-07-2024'
 parent: 'introduction'
 order: 1
-author: 'Alex B'
+author: 'Alex-B'
 category: 'General'
 tags: ['intro', 'getting-started']
 ---

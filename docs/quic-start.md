@@ -3,7 +3,7 @@ title: 'Quick start'
 date: '29-07-2024'
 parent: null
 order: 2
-author: 'Alex B'
+author: 'Lenevoyia'
 category: 'quick-start'
 tags: ['intro', 'getting-started']
 ---

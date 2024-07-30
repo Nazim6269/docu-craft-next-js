@@ -10,7 +10,7 @@ const ContentDisplay = async ({ id }) => {
       <h1>{data.title}</h1>
       <div>
         <span>Published On: {data.date}</span> by{' '}
-        <Link href={`/author/${data.author}`}>{data.author}</Link> under the{' '}
+        <Link href={`/authors/${data.author}`}>{data.author}</Link> under the{' '}
         <Link href={`/categories/${data.category}`}>{data.category}</Link>{' '}
         category.
       </div>
